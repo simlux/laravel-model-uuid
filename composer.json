@@ -1,5 +1,6 @@
 {
   "name": "simlux/laravel-model-uuid",
+  "description": "Make usage of UUID in laravel models easy.",
   "type": "laravel-package",
   "keywords": ["php", "laravel", "uuid"],
   "license": "MIT",
