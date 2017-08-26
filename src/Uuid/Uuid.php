@@ -1,14 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace Simlux\LaravelModelUuid;
+namespace Simlux\LaravelModelUuid\Uuid;
 
 use Ramsey\Uuid\Uuid as RamseyUuid;
 
-/**
- * Class Uuid
- *
- * @package InspectYourWeb\Uuid
- */
 class Uuid
 {
     /**

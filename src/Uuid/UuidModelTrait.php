@@ -1,16 +1,11 @@
 <?php declare(strict_types=1);
 
-namespace Simlux\LaravelModelUuid;
+namespace Simlux\LaravelModelUuid\Uuid;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 
-/**
- * Class UuidModelTrait
- *
- * @package InspectYourWeb\Uuid
- */
 trait UuidModelTrait
 {
 
