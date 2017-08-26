@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Simlux\LaravelModelUuid\Uuid\Migration;
+namespace Simlux\LaravelModelUuid\Migration;
 
 use Illuminate\Database\Schema\Blueprint;
 
