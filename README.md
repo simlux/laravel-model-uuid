@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-composer require imlux/laravel-model-uuid:dev-master
+composer require simlux/laravel-model-uuid:dev-master
 ```
 ## Usage
 Creates column uuid and unique index with the migration helper.
